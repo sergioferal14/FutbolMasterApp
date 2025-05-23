@@ -40,11 +40,12 @@
 
 ```bash
  git clone https://github.com/sergioferal14/FutbolMasterApp.git ->
+cd FutbolMasterApp
 ```
 ### 2. Descomprimimos el .zip
 
 ```bash
-unzip FutbolMaster_Project.zip
+unzip FutbolMaster.zip
 ```
 
 ### 3. Abrir el Proyecto en Android Studio
