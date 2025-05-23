@@ -40,7 +40,6 @@
 
 ```bash
  git clone https://github.com/sergioferal14/FutbolMasterApp.git ->
- cd FutbolMaster
 ```
 ### 2. Descomprimimos el .zip
 
